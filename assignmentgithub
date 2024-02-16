@@ -1,0 +1,6 @@
+mkdir new_directory
+cd new_directory
+touch hello.txt
+Hello there! This is a message inside hello.txt.
+git add hello.txt
+git commit -m "Initial commit: Added hello.txt"
